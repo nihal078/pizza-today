@@ -1,0 +1,62 @@
+.navbar{
+    background-color: white!important;
+    height:90px ;
+}
+
+
+
+.nav-link:hover{
+    background-color: red !important;
+    color: white !important;
+    border-radius: 20px;  
+    text-align: center;
+   
+}
+
+.logo{
+    height: 90px;
+   
+}
+ 
+.heading{
+    color: red;
+    text-align: center;
+    margin-top: 30px;
+    
+}
+
+.card-title{
+    color: red;
+}
+
+
+.card{
+    width: 200PX;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+    
+  
+    
+}
+
+.card-text{
+    font-weight: bold;
+    
+}
+
+.btn{
+    background-color: red;
+    color: seashell;
+}
+
+
+.copyright{
+    border: solid 2px red;
+    text-align: center;
+    margin-top: 30px;
+    background-color: red;
+    color: white;
+}
+

@@ -1,0 +1,28 @@
+.information-box{
+    border: solid 2PX white ;
+    color:white;
+    text-align: center;
+    background-color:red;
+    padding-bottom: 50px;
+    
+  
+  
+}
+body{
+    background-color:white ;
+    
+}
+
+
+.copyright{
+    border: solid 2px white ;
+    text-align: center;
+   
+    background-color : red;
+    color: white;
+}
+
+
+.form-control{
+    margin-bottom: 10px;
+}
